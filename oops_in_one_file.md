@@ -55,7 +55,7 @@ Object-Oriented Programming (OOP) is a modular approach where the emphasis is on
 3. Polymorphism
 4. Abstraction
 
-🔒 1. Encapsulation
+## 🔒 1. Encapsulation
 Encapsulation is the wrapping up of data and member functions into a single unit called a class.
 
 It is used for data hiding, where we use the private access modifier to hide internal data and members.
