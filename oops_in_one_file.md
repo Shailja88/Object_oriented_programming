@@ -28,7 +28,7 @@
 
 ---
 
-## 💻 Example: Class & Object in C++
+## 💻 Example: Class in C++
 
 ```cpp
 #include <string>
@@ -62,8 +62,12 @@ It is used for data hiding, where we use the private access modifier to hide int
 
 It improves modularity, security, and maintainability of the code.
 
-🖼️ Diagram:![ecapsulation_in_cpp](https://github.com/user-attachments/assets/60924a76-6234-4f62-a277-282a15ca38e3)
+🖼️ Diagram:
+![ecapsulation_in_cpp](https://github.com/user-attachments/assets/60924a76-6234-4f62-a277-282a15ca38e3)
+
+## 💻 Example: Encapsulation C++
 ```cpp
+
 class Account {
 private:
     double balance;
